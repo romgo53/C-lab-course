@@ -1,0 +1,3 @@
+Enter a number number for count_bits function:
+Counting the bits on even indexes for 32...
+The result is: 1

@@ -1,0 +1,5 @@
+Enter numbers that you want to add to the set to finish use CTRL-D 
+
+The final set: 
+ -8 -9  2 23  8 -6 -2  6  7
+

@@ -1,0 +1,11 @@
+Enter a char to search in the first string: 
+Enter the first String: 
+Enter the second String: 
+Enter the number of chars in the strings you want to compare (strncmp): 
+First string "abc"
+Second string "aba"
+Entered char c
+Entered n 1
+The result of compering "abc" and "aba" is: 2
+The result of compering the first 2 chars of "abc" and "aba" is: 0
+The index of the first occurrence of 'c' is 2
