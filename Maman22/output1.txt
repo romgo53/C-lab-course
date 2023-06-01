@@ -1,0 +1,56 @@
+1. read_comp <COMP>,<REAL>,<IMG>
+2. print_comp <COMP>
+3. add_comp <COMP_1>,<COMP_2>
+4. sub_comp <COMP_1>,<COMP_2>
+5. mult_comp_real <COMP>,<REAL>
+6. mult_comp_img <COMP>,<IMG>
+7. mult_comp_comp <COMP_1>,<COMP_2>
+8. abs_comp <COMP>
+9. stop
+Please enter a command:
+0.00 + (0.00)i
+Please enter a command:
+0.00 + (0.00)i
+Please enter a command:
+0.00 + (0.00)i
+Please enter a command:
+Please enter a command:
+45.10 - (23.75)i
+Please enter a command:
+Please enter a command:
+54.20 + (3.56)i
+Please enter a command:
+Please enter a command:
+0.00 - (1.00)i
+Please enter a command:
+99.30 - (20.19)i
+Please enter a command:
+(blank line)
+Please enter a command:
+-45.10 + (22.75)i
+Please enter a command:
+0.00 + (0.00)i
+Please enter a command:
+-45.10 + (23.75)i
+Please enter a command:
+113.20 - (59.61)i
+Please enter a command:
+-60.90 - (115.64)i
+Please enter a command:
+2528.97 - (1126.69)i
+Please enter a command:
+0.00 + (0.00)i
+Please enter a command:
+50.971291
+Please enter a command:
+54.316789
+Please enter a command:
+1.000000
+Please enter a command:
+0.000000
+Please enter a command:
+(blank line)
+Please enter a command:
+(blank line)
+Please enter a command:
+The program has stopped!

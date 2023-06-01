@@ -1,0 +1,49 @@
+1. read_comp <COMP>,<REAL>,<IMG>
+2. print_comp <COMP>
+3. add_comp <COMP_1>,<COMP_2>
+4. sub_comp <COMP_1>,<COMP_2>
+5. mult_comp_real <COMP>,<REAL>
+6. mult_comp_img <COMP>,<IMG>
+7. mult_comp_comp <COMP_1>,<COMP_2>
+8. abs_comp <COMP>
+9. stop
+Please enter a command:
+Undefined complex variable
+Please enter a command:
+Undefined complex variable
+Please enter a command:
+Undefined command name
+Please enter a command:
+Undefined command name
+Please enter a command:
+Invalid parameter - not a number
+Please enter a command:
+Missing comma
+Please enter a command:
+Extraneous text after end of command
+Please enter a command:
+Missing comma
+Please enter a command:
+Extraneous text after end of command
+Please enter a command:
+Multiple consecutive commas
+Please enter a command:
+Missing comma
+Please enter a command:
+Undefined command name
+Please enter a command:
+Invalid parameter - not a number
+Please enter a command:
+Missing parameter
+Please enter a command:
+Undefined complex variable
+Please enter a command:
+Extraneous text after end of command
+Please enter a command:
+Undefined command name
+Please enter a command:
+Undefined command name
+Please enter a command:
+Multiple consecutive commas
+Please enter a command:
+The program has stopped!
